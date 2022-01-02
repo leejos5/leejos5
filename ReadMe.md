@@ -1,6 +1,6 @@
 # Hello!
 
-## bout Me
+## About Me
 
 I am Joshua Lee, a senior Computer Science student at the University of Washington with a strong interest in software development, particularly **Front End Development**. I am planning to graduate in June 2022 with my Bachelor of Science in **Computer Science and Systems.** 
 
