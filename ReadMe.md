@@ -27,10 +27,17 @@ I greatly enjoy playing and analyzing competitive video games. I love being in p
 
   - css
   - html
+ 
+## Other Skills
+  - LAMP Stack
+  - Google Cloud Computing
   
 ## Design Tools
+
   - Figma
   - Adobe Suite (Photoshop, InDesign, Illustrator, Premiere)
+
+## 
 
 ## Links
 
