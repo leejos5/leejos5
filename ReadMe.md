@@ -8,7 +8,7 @@ I enjoy developing my technical skills through my coursework, participating in H
 
 Outside of my tech bubble, I am currently a **NEAR Peer Mentor** for underserved high school STEM students and a **Business Analytics Intern** for the CleanTech Open Startup Accelerator.
 
-I greatly enjoy playing and analyzing competitive video games. I love being in positions of leadership where I can mentor and assist others.
+In my free time, I like to play video games and have recently gotten into gardening. Show me your favorite plant!
 
 ## Achievements
 
